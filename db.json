@@ -1,18 +1,42 @@
 {
-  "email": [
+  "cars": [
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    },
+    {
+      "id": 1672907629629,
+      "brand": "Mahindara",
+      "type": "Manual",
+      "year": 2021,
+      "kms": 20000,
+      "Description": "Mahindra Scorpio",
+      "Price": 1000000
+    }
+  ],
+  "wishlisted_cars": [
     {
       "id": 1,
-      "user_email": "ram123@gmail.com",
-      "first_name": "Ram",
-      "last_name": "prajapat",
-      "user_password": "ram123"
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     },
     {
       "id": 2,
-      "user_email": "karan@gmail.com",
-      "first_name": "Karan",
-      "last_name": "kundra",
-      "user_password": "karan123"
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     }
   ]
 }
