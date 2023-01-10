@@ -1,13 +1,19 @@
 {
-  "signup": [
-          {
-    "email": "ram12@gmail.com",
-    "username": "ram",
-    "password": "ram123",
-    "id": 1
-    }
-  ],
-  "tasks":[
-  
+  "dogs": [
+        {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }  
   ]
+  
 }
