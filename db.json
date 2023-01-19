@@ -1,5 +1,5 @@
 {
-  "Critical ": [
+  "critical": [
         {
       "id": 1,
       "bugs": "Reported Bug",
@@ -9,9 +9,9 @@
       "id": 2,
       "bugs": "Reported Bug",
      
-    },  
+    }
   ],
-   "Major  ": [
+   "major": [
         {
       "id": 1,
       "bugs": "Reported Bug",
@@ -21,9 +21,9 @@
       "id": 2,
       "bugs": "Reported Bug",
      
-    },  
+    } 
   ],
-  "Medium   ": [
+  "medium": [
         {
       "id": 1,
       "bugs": "Reported Bug",
@@ -33,9 +33,9 @@
       "id": 2,
       "bugs": "Reported Bug",
      
-    },  
+    }  
   ],
-  "low   ": [
+  "low": [
         {
       "id": 1,
       "bugs": "Reported Bug",
@@ -45,7 +45,7 @@
       "id": 2,
       "bugs": "Reported Bug",
      
-    },  
+    }  
   ]
   
 }
