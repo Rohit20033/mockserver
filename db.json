@@ -11,41 +11,15 @@
      
     }
   ],
-   "major": [
-        {
-      "id": 1,
-      "bugs": "Reported Bug",
-     
-    },
-    {
-      "id": 2,
-      "bugs": "Reported Bug",
-     
-    } 
+  
+   "major": [ 
   ],
+  
   "medium": [
-        {
-      "id": 1,
-      "bugs": "Reported Bug",
-     
-    },
-    {
-      "id": 2,
-      "bugs": "Reported Bug",
-     
-    }  
   ],
+  
   "low": [
-        {
-      "id": 1,
-      "bugs": "Reported Bug",
-     
-    },
-    {
-      "id": 2,
-      "bugs": "Reported Bug",
-     
-    }  
+      
   ]
   
 }
