@@ -8,6 +8,24 @@
       "id": 2,
       "bugs": "Reported Bug"
     }
+  ],
+  "major": [
+        {
+      "id": 1,
+      "bugs": "Reported Bug"
+    }
+  ],
+  "medium": [
+        {
+      "id": 1,
+      "bugs": "Reported Bug"
+    }
+  ],
+  "low": [
+        {
+      "id": 1,
+      "bugs": "Reported Bug"
+    }
   ]
   
 }
