@@ -2,17 +2,12 @@
   "critical": [
         {
       "id": 1,
-      "bugs": "Reported Bug",
-     
+      "bugs": "Reported Bug"
     },
     {
       "id": 2,
-      "bugs": "Reported Bug",
-     
+      "bugs": "Reported Bug"
     }
-  ],
-  
-   "major": [ 
   ]
   
 }
